@@ -1,1 +1,22 @@
+Script started on 2026-02-06 14:26:36-05:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="120" LINES="18"]
+^[[?2004h^[]0;helmsj14@thur114-hp1: ~/CSCI271_Assignment2_FractionDataType_JesseHelms/src^G^[[01;32mhelmsj14@thur114-hp>
+^[[?2004l^M1/2
+-3/4
+-1/4
+NaN
+infinity
+-infinity
+NaN
+7
+NaN
+NaN
+6/7
+NaN
+infinity
+NaN
+216/343
+NaN
+^[[?2004h^[]0;helmsj14@thur114-hp1: ~/CSCI271_Assignment2_FractionDataType_JesseHelms/src^G^[[01;32mhelmsj14@thur114-hp>
+^[[?2004l^Mexit
 
+Script done on 2026-02-06 14:26:51-05:00 [COMMAND_EXIT_CODE="0"]
