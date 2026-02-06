@@ -305,6 +305,7 @@ public Fraction pow(int n) {
     if (a == 0) a = 1;
     return a;
     }
+    }
     public static void main(String[] args) {
         // Test cases for the Fraction class
         System.out.println(new Fraction(1, 2));     // 1/2
@@ -334,5 +335,5 @@ public Fraction pow(int n) {
         System.out.println(a.pow(-2));
     
         }
-    }
+
 }
